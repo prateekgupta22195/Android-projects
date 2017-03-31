@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:text="R.O.A.D is a place where Travelers from all around the world meet but never get a chance to know each other up, close and personal. This platform Riders of Adventurous Destinations is meant to connect you to all the people in the Riding Community.
+            \n\nIf you are one of those who has the Passion and Love for Riding, wish to enjoy the wind against your Soul, explore the unexplored terrains, go beyond your daily routine, corporate life – be a part of R.O.A.D – a Platform which encourages and understands the Desire to travel on Wheels.
+            \n\nLastly, it does not matter to us that you belong to which club or community or you have which Model of bike/car etc.., only if you have the will to Travel, this is the place you got to be.
+            \n\nWe as a Team plan Breakfast Rides, 1-2 days Leisure Rides, 4-5 days Adventurous Rides and also few Long Route Rides
+            \n\nCome and join us, Ride Hard ! Ride Safe !
+            \n\n#Team R.O.A.D"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
